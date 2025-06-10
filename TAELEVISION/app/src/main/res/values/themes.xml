@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TaeLevision" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna Utama -->
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Warna Sekunder -->
+        <item name="colorSecondary">@color/purple_light</item>
+        <item name="colorSecondaryVariant">@color/purple_primary</item>
+        <item name="colorOnSecondary">@color/purple_dark</item>
+
+        <!-- Warna Latar -->
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/text_primary_light</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/purple_primary</item>
+
+        <!-- Warna Teks -->
+        <item name="android:textColorPrimary">@color/text_primary_light</item>
+        <item name="android:textColorSecondary">@color/text_secondary_light</item>
+    </style>
+
+    <style name="Theme.TAELEVISION" parent="Theme.TaeLevision"/>
+</resources>

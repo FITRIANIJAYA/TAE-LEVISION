@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama -->
+    <color name="purple_primary">#9D4EDD</color>
+    <color name="purple_dark">#1A1025</color>
+    <color name="purple_light">#CDB4DB</color>
+    <color name="background_light">#F4F4F8</color>
+
+    <!-- Warna Pendukung -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Teks Tema Terang -->
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="surface_light">#FFFFFF</color>
+
+    <!-- Teks Tema Gelap -->
+    <color name="text_primary_dark">#F4F4F8</color>
+    <color name="text_secondary_dark">#BBBBBB</color>
+    <color name="surface_dark">#252130</color>
+</resources>
